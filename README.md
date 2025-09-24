@@ -5,11 +5,7 @@
 <h3 align="center">.NET Developer from Azerbaijan</h3>
 ---
 
-📫 **How to reach me:babaliorkhan@gmail.com**  
-
-
-<--📄 **Know about my experiences:**>  
-
+📫 **How to reach me:**babaliorkhan@gmail.com  
 
 ---
 
@@ -18,10 +14,11 @@
 - [GitHub](https://github.com/babaliorkhan1)  
 
 ---
-
 ### 🛠 Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,html,css,sass,bootstrap,js,mysql,azure,git" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,html,css,sass,bootstrap,jquery,postgres,mysql,git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="48" height="48" alt="Hibernate" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt="Entity Framework" />
 </p>
 
 
