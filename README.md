@@ -1,7 +1,6 @@
 ## Hi there 👋
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=30&duration=3000&pause=1000&color=3d76bb&center=true&vCenter=true&width=500&lines=Hi+there+👋;I+am+Orkhan" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=35&duration=3000&pause=1000&color=3d76bb&center=true&vCenter=true&width=600&lines=Hi+there+👋;I+am+Orkhan)](https://git.io/typing-svg)
+
 
 Here are some ideas to get you started:
 
