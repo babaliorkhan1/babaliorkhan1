@@ -2,7 +2,7 @@
 
 ----------------------------------------
 
-📫 #Gmail:Babaliorkhan@gmail.com 
+<sub>📧 Gmail: Babaliorkhan@gmail.com</sub>
 ------------------------------------
 ### 🌐 Connect with me:
 <p align="left">
