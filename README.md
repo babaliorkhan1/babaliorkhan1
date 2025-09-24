@@ -4,9 +4,7 @@ I am a hardworking and persistent individual who enjoys overcoming challenges.
 -  Known for **dedication** and **consistency**  
 - Strong in **problem-solving** and **analytical thinking**  
 -  Always eager to **learn** and **improve**  
-
----
-------------------------------------
+----
 <sub>📧 Gmail: Babaliorkhan@gmail.com</sub>
 ------------------------------------
 ### 🌐 Connect with me:
@@ -21,6 +19,7 @@ I am a hardworking and persistent individual who enjoys overcoming challenges.
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
   </a>
 </p>
+
 
 ### 🛠 Languages and Tools:
 <p align="left">
