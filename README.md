@@ -1,5 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?size=35&duration=2000&pause=700&color=3d76bb&center=true&vCenter=true&width=800&lines=Have+a+nice+day👋;I+am+Software+Engineer)](https://git.io/typing-svg)
+### 🙋‍♂️ About Me
+I am a hardworking and persistent individual who enjoys overcoming challenges.  
+-  Known for **dedication** and **consistency**  
+- Strong in **problem-solving** and **analytical thinking**  
+-  Always eager to **learn** and **improve**  
 
+---
 ------------------------------------
 <sub>📧 Gmail: Babaliorkhan@gmail.com</sub>
 ------------------------------------
@@ -19,8 +25,6 @@
 ### 🛠 Languages and Tools:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,html,css,sass,bootstrap,jquery,javascript,postgres,mysql,git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="48" height="45" alt="Hibernate" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="45" alt="Entity Framework" />
 </p>
 
 
