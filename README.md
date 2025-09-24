@@ -4,7 +4,6 @@ I am a hardworking and persistent individual who enjoys overcoming challenges.
 -  Known for **dedication** and **consistency**  
 - Strong in **problem-solving** and **analytical thinking**  
 -  Always eager to **learn** and **improve**
--  We don’t just write code — we enjoy it! 
 ----
 <sub>📧 Gmail: Babaliorkhan@gmail.com</sub>
 ------------------------------------
