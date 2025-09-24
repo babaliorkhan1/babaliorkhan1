@@ -1,9 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=35&duration=2000&pause=700&color=3d76bb&center=true&vCenter=true&width=800&lines=Have+a+nice+day👋;I+am+Software+Engineer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=35&duration=2000&pause=700&color=3d76bb&center=true&vCenter=true&width=700&lines=Have+a+nice+day👋;I+am+Software+Engineer)](https://git.io/typing-svg)
+----------------------------------------
 
-<hr>
-
-📫 **Gmail:Babaliorkhan@gmail.com** 
+📫 Gmail:Babaliorkhan@gmail.com 
 ------------------------------------
 ### 🌐 Connect with me:
 <p align="left">
@@ -21,8 +20,8 @@
 ### 🛠 Languages and Tools:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,html,css,sass,bootstrap,jquery,postgres,mysql,git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="48" height="48" alt="Hibernate" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt="Entity Framework" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="48" height="45" alt="Hibernate" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="45" alt="Entity Framework" />
 </p>
 
 
