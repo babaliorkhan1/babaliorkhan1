@@ -2,6 +2,7 @@
 
 <!--
 **babaliorkhan1/babaliorkhan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=30&duration=3000&pause=1000&color=3d76bb&center=true&vCenter=true&width=500&lines=Hi+there+👋;I+am+Orkhan)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
