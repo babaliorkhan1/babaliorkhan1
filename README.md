@@ -2,10 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?size=35&duration=2000&pause=700&color=3d76bb&center=true&vCenter=true&width=700&lines=Have+a+nice+day👋;I+am+Software+Engineer)](https://git.io/typing-svg)
 
 
-<h3 align="center">.NET Developer from Azerbaijan</h3>
----
 
-📫 **How to reach me:**babaliorkhan@gmail.com  
+📫 **Gmail:Babaliorkhan@gmail.com** 
 ### 🌐 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/babaliorkhan" target="_blank">
@@ -19,7 +17,6 @@
   </a>
 </p>
 
----
 ### 🛠 Languages and Tools:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,html,css,sass,bootstrap,jquery,postgres,mysql,git" />
