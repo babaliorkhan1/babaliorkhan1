@@ -6,12 +6,18 @@
 ---
 
 📫 **How to reach me:**babaliorkhan@gmail.com  
-
----
-
 ### 🌐 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/babaliorkhan)  
-- [GitHub](https://github.com/babaliorkhan1)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/babaliorkhan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  </a>
+  <a href="https://github.com/babaliorkhan1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
+  </a>
+  <a href="https://instagram.com/your_instagram_username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
+  </a>
+</p>
 
 ---
 ### 🛠 Languages and Tools:
